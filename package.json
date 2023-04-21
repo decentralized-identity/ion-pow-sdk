@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isaacJChen/ion-pow-sdk.git"
+    "url": "git+https://github.com/decentralized-identity/ion-pow-sdk.git"
   },
   "author": "isaacjchen",
-  "license": "ISC",
+  "license": "apache-2.0",
   "bugs": {
-    "url": "https://github.com/isaacJChen/ion-pow-sdk/issues"
+    "url": "https://github.com/decentralized-identity/ion-pow-sdk/issues"
   },
-  "homepage": "https://github.com/isaacJChen/ion-pow-sdk#readme",
+  "homepage": "https://github.com/decentralized-identity/ion-pow-sdk#readme",
   "dependencies": {
     "buffer": "6.0.3",
     "cross-fetch": "3.1.5",
