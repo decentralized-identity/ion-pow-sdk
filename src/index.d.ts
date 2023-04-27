@@ -1,3 +1,4 @@
 export default class IonProofOfWork {
-    submitIonRequestUntilSuccess(): Promise<void>
+    static submitIonRequest(getChallengeUri:string, solveChallengeUri:string, requestBody:any): Promise<void>;
+    static submitIonRequestUntilSuccess(getChallengeUri:string, solveChallengeUri:string, requestBody:any): Promise<void>;
 }
