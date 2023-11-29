@@ -1,6 +1,6 @@
 {
   "name": "@decentralized-identity/ion-pow-sdk",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "sdk to perform proof of work for ION",
   "main": "src/index.js",
   "types": "src/index.d.ts",
